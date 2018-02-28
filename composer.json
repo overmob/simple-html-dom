@@ -16,5 +16,5 @@
     },
     "description": "PHP Simple HTML DOM Parser",
     "license": "MIT",
-    "name": "emanueleminotto/simple-html-dom"
+    "name": "overmob/simple-html-dom"
 }
